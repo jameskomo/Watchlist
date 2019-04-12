@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "virtual/bin/python3.6",
+    "git.ignoreLimitWarning": true,
+    "python.formatting.provider": "autopep8"
+}
