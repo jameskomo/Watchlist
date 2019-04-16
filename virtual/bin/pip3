@@ -1,4 +1,4 @@
-#!/home/komo/Documents/moringa-school-projects/MS-Python-Pre-work/Watchlist/virtual/bin/python
+#!/home/komo/Documents/moringa-school/Python-Flask/Watchlist/virtual/bin/python3.6
 # -*- coding: utf-8 -*-
 import re
 import sys

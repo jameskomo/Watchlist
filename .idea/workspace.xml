@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81cdde88-5837-481c-9c69-f2afe25f2c49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/css/movie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/fourOwfour.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/macros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/movie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/new_review.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/autopep8" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/autopep8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/easy_install-3.6" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/easy_install-3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/epylint" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/epylint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/flask" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/flask" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/gunicorn" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/gunicorn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/gunicorn_paster" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/gunicorn_paster" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/isort" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/isort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/pip3.6" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/pip3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/pycodestyle" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/pycodestyle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/pylint" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/pylint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/pyreverse" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/pyreverse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/python3.6" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/python3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/symilar" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/symilar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/bin/wheel" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/bin/wheel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/isort-4.3.17.dist-info/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/isort-4.3.17.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/lazy_object_proxy/cext.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/lazy_object_proxy/cext.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/markupsafe/_speedups.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/markupsafe/_speedups.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip-19.0.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pip-19.0.3.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pylint/test/data/ascript" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pylint/test/data/ascript" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pylint/test/functional/implicit_str_concat_in_sequence_multiline.py" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pylint/test/functional/implicit_str_concat_in_sequence_multiline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pylint/test/functional/implicit_str_concat_in_sequence_multiline.rc" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pylint/test/functional/implicit_str_concat_in_sequence_multiline.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pylint/test/functional/implicit_str_concat_in_sequence_multiline.txt" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/pylint/test/functional/implicit_str_concat_in_sequence_multiline.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/cli-32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/cli-32.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/cli-64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/cli-64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/cli.exe" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/cli.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/gui-32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/gui-32.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/gui-64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/gui-64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/gui.exe" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/setuptools/gui.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/typed_ast/_ast27.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/typed_ast/_ast27.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/typed_ast/_ast3.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/typed_ast/_ast3.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/wrapt/_wrappers.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/lib/python3.6/site-packages/wrapt/_wrappers.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtual/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/virtual/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="1279" />
+    <option name="height" value="701" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81cdde88-5837-481c-9c69-f2afe25f2c49" name="Default Changelist" comment="" />
+      <created>1555345258213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555345258213</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="27" width="1299" height="741" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
